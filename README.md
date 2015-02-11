@@ -1,7 +1,7 @@
 # mastermind
 Mastermind game written in C++
 
-# license
+## license
 
 The MIT License (MIT)
 
